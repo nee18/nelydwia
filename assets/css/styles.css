@@ -290,6 +290,17 @@ a:hover {
   border-radius: 5px;
 }
 
+.certif-card {
+  padding      : 40px 30px;
+  margin-bottom: 80px;
+  border-style : none;
+}
+
+.certif-card img {
+  width    : 480px;
+  max-width: 100%;
+}
+
 .projects .project-card.high-priority-sea {
   border-width: 3px;
   border-style: solid;
