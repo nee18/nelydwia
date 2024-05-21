@@ -1,8 +1,8 @@
 :root {
   --font-color              : #1C1F26;
-  --font-sea-color          : #1E8FDD;
-  --font-sea-color-secondary: #1B81C7;
-  --bg-color                : #fcfcfc;
+  --font-sea-color          : #4e9ad1;
+  --font-sea-color-secondary: #3b7da8;
+  --bg-color                : #ececec;
 
   --btn-sea-font-active: #176BA6;
 
@@ -16,9 +16,9 @@
 
 [data-theme="dark"] {
   --font-color              : #FDF7F8;
-  --font-sea-color          : #A5D2F1;
+  --font-sea-color          : #b9d8ec;
   --font-sea-color-secondary: #C7E3F7;
-  --bg-color                : rgba(28, 31, 38, 1);
+  --bg-color                : rgb(28, 30, 36);
 
   --btn-sea-font-active: #F4F9FD;
 
